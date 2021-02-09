@@ -4,4 +4,6 @@ troisieme
 quatrieme
 cinquiieme
 sixieme
+septieme
+huitieme
 neuvieme
