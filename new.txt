@@ -1,0 +1,2 @@
+bonjour git add . git commit -m adding new.txt
+bonjour git
